@@ -5,8 +5,7 @@ import smtplib
 from email_validator import validate_email, EmailNotValidError
 
 # Set page title
-st.title("Email Verification App
-(IDS PRESENTAION BY: MIRZA MUHAMMAD ALI KHAN )")
+st.title("Email Verification App")
 
 # Function to validate email syntax
 def is_valid_syntax(email):
