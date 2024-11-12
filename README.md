@@ -1,4 +1,6 @@
+# IDS PRESENTATION BY: MIRZA MUHAMMAD ALI KHAN
 # Email Verification App
+
 
 A Streamlit-based web application that verifies email addresses through multiple validation steps, including syntax checking, domain verification, and SMTP validation.
 
